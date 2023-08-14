@@ -64,6 +64,6 @@ while True:
         else:
             result = fac(result)
     print("value is ",result)
-    if opr not in [1,2,3,4,5,6,7,8]:
+    if opr not in [1,2,3,4,5,6,7,8,9]:
         print("final answer is ",result)
         break
